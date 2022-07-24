@@ -1,4 +1,4 @@
-package behavior.templatemethod.orcs;
+package behaviorial.templatemethod.orcs;
 
 public abstract class GameAI {
 

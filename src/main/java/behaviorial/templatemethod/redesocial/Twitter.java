@@ -1,4 +1,4 @@
-package behavior.templatemethod.redesocial;
+package behaviorial.templatemethod.redesocial;
 
 public class Twitter extends Network {
 

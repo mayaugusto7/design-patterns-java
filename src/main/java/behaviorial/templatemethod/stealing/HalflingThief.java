@@ -1,4 +1,4 @@
-package behavior.templatemethod.stealing;
+package behaviorial.templatemethod.stealing;
 
 public class HalflingThief {
 

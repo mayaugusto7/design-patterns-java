@@ -1,4 +1,4 @@
-package behavior.templatemethod.stealing;
+package behaviorial.templatemethod.stealing;
 
 import lombok.extern.slf4j.Slf4j;
 

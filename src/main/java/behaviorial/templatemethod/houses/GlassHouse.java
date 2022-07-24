@@ -1,4 +1,4 @@
-package behavior.templatemethod.houses;
+package behaviorial.templatemethod.houses;
 
 public class GlassHouse extends HouseTemplate {
 
