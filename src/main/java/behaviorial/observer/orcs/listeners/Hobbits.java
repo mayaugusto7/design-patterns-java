@@ -9,8 +9,8 @@ public class Hobbits implements WeatherObserver {
 
     @Override
     public void update(WeatherType currentWeather) {
-        switch (currentWeather) {
-            log.info("The hobbits are facing weather now");
-        }
+//        switch (currentWeather) {
+//            log.info("The hobbits are facing weather now");
+//        }
     }
 }
